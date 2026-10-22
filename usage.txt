@@ -1,0 +1,2 @@
+1. Run python hello.py to start.
+2. Check output logs in console.
