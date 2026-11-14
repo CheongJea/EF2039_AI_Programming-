@@ -1,0 +1,42 @@
+{
+    "Q1_1": {
+        "good": 64.5,
+        "defect": 76.25,
+        "Total_acc": 70.375
+    },
+    "Q1_2": {
+        "good": 75.5,
+        "defect": 82.25,
+        "Total_acc": 78.875
+    },
+    "Q1_3": {
+        "good": 67.0,
+        "defect": 84.75,
+        "Total_acc": 75.875
+    },
+    "Q2_1": {
+        "good": 91.25,
+        "defect": 37.75,
+        "Total_acc": 64.5
+    },
+    "Q2_2": {
+        "good": 40.25,
+        "defect": 90.75,
+        "Total_acc": 65.5
+    },
+    "Q3_1": {
+        "good": 100.0,
+        "defect": 0.0,
+        "Total_acc": 50.0
+    },
+    "Q3_2": {
+        "good": 75.5,
+        "defect": 82.25,
+        "Total_acc": 78.875
+    },
+    "Q3_3": {
+        "good": 56.25,
+        "defect": 90.0,
+        "Total_acc": 73.125
+    }
+}
