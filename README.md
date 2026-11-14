@@ -1,5 +1,6 @@
 # Potential of Neural Network for Classifying Good and Defective Coffee Bean
 
+<img src="readme_fig/objective.png">
 ## Questions
 
 - Q1. Train size: Impact of train dataset size on test profile
@@ -20,9 +21,15 @@
 
 - defect (good): 1200 (train), 400 (test)
 
+## Dataset Setting
+
+<img src="readme_fig/setting.png">
+
 ## Model & training
 
 With two classes (good and defect), the entire training process was operated by a web-based machine learning platform Google Teachable Machine.
+
+<img src="readme_fig/2026-11-15_04-04.png">
 
 ## Reproduce
 
@@ -39,3 +46,7 @@ To train process on online conditon, plot and test process in following code.
 python code_files/01_plot_testLoss.py
 python code_files/02_trainedModelTest.py
 ```
+
+## Result
+
+<img src="readme_fig/01_testloss.png">
