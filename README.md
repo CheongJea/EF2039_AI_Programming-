@@ -34,8 +34,8 @@ With two classes (good and defect), the entire training process was operated by 
 ## Reproduce
 
 ```bash
-git clone <this-repository-url>
-cd pa4-coffee-anomaly
+git clone https://github.com/CheongJea/EF2039_AI_Programming-.git
+cd EF2039_AI_Programming-
 conda env create -f environment.yml
 conda activate pa4
 ```
