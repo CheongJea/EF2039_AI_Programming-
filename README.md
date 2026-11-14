@@ -33,6 +33,7 @@ With two classes (good and defect), the entire training process was operated by 
 
 ## Reproduce
 
+repository download and conda environment construction
 ```bash
 git clone https://github.com/CheongJea/EF2039_AI_Programming-.git
 cd EF2039_AI_Programming-
