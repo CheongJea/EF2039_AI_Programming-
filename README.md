@@ -24,6 +24,7 @@
 ## Dataset Setting
 
 <img src="readme_fig/setting.png">
+partial construction should be operated manually
 
 ## Model & training
 
